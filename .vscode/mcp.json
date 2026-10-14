@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "resource-link-e2e": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["${workspaceFolder}/server.py"]
+    }
+  }
+}
